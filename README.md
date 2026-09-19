@@ -21,4 +21,4 @@ Vercel despliega automático en 30 segundos.
 
 ## Notas
 - Mensaje humano para Messenger ya corregido
-- PC abre messenger.com/t/ID, móvil con fallback a Facebook
+- PC abre messenger.com/t/ID, móvil con fallback a Facebook.
